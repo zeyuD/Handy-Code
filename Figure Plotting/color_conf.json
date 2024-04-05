@@ -1,0 +1,67 @@
+{
+  "MATLAB": {
+    "Source": "MATLAB",
+    "c1": "#0072BD",
+    "c2": "#D95319",
+    "c3": "#EDB120",
+    "c4": "#7E2F8E",
+    "c5": "#77AC30",
+    "c6": "#4DBEEE",
+    "c7": "#A2142F"
+  },
+
+  "Xianyun": {
+    "Source": "Genshin",
+    "c1": "#4A6375",
+    "c2": "#6CAA89",
+    "c3": "#FEF0E2",
+    "c4": "#FEBE67",
+    "c5": "#C85D3D"
+    },
+
+  "Faruzan": {
+    "Source": "Genshin",
+    "c1": "#3B5D70",
+    "c2": "#7FB1BD",
+    "c3": "#D2E8EC",
+    "c4": "#FCEFDF",
+    "c5": "#D5C1A1"
+    },
+
+  "Fischl": {
+    "Source": "Genshin",
+    "c1": "#453667",
+    "c2": "#846DB1",
+    "c3": "#B7B3ED",
+    "c4": "#F3DCBB",
+    "c5": "#DCBA97"
+    },
+
+  "Guinevere": {
+    "Source": "StarRail",
+    "c1": "#153249",
+    "c2": "#3A7F93",
+    "c3": "#FCB944",
+    "c4": "#C73336",
+    "c5": "#7B1324"
+    },
+
+  "Empty_templet": {
+    "Source": "",
+    "c1": [],
+    "c2": [],
+    "c3": [],
+    "c4": [],
+    "c5": []
+    },
+
+  "Empty_templet_end": {
+    "Source": "",
+    "c1": [],
+    "c2": [],
+    "c3": [],
+    "c4": [],
+    "c5": []
+    }
+    
+}
